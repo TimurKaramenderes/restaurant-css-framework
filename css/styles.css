@@ -1,0 +1,63 @@
+.jumbotron:nth-of-type(1) {
+ color: rgb(0, 0, 0); /* Le texte sera affiché en blanc */
+ background-image: url(/Users/karemindorus/restaurant-css-framework/images/restaurant.gif);
+ background-size: cover;
+ background-position: center;
+min-height: 500px;
+max-height: 500px;
+
+}
+
+nav{
+    background-color: black;
+}
+
+
+.jumbotron {
+ margin-bottom: 0px;
+ color: rgb(0, 0, 0); /* Le texte sera affiché en blanc */
+background-image: none;
+}
+
+.container{
+    margin-top: 3%;
+    margin
+    max-width: 100%;
+}
+
+h1 {
+    text-align: center;
+    border: ;
+}
+
+
+a {
+
+    text-align: right;
+}
+
+li > .badge{
+    text-align: right;
+}
+
+
+
+
+.map-container{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+.map-container iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+
+
+
+[class*="img-fluid"] {
+}
