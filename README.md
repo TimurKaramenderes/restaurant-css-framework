@@ -9,7 +9,7 @@ The site is articulated around 4 fictitious tabs:
 - info on the location of the bar
 - a photo gallery
 
-**You can find the website here: [here]!(https://timurkaramenderes.github.io/restaurant-css-framework/)**
+**You can find the website here: [ *Roast Coffee *](https://timurkaramenderes.github.io/restaurant-css-framework/)**
 
 ## 1. What's "Roast"?
 **Roast** is a concept that I realized and invented a few months ago for a project in Brussels but that never saw the light of day. So I decided to develop the website around this fictitious project to give life to all this visual identity and allow me to almost interfere in a real project by using the graphic assets I had created for the occasion. 
@@ -18,7 +18,7 @@ All the artworks are mine, you will simply find some royalty free images reworke
 
 
 ## 2. Language
-The site is mainly built around the *BOOTSTRAP* framework although you will find some CSS and JS for the navbar (my first algo by the way! :happy:)
+The site is mainly built around the *BOOTSTRAP* framework although you will find some CSS and JS for the navbar (my first algo by the way! )
 
 ## 3. Process
 For this particular work, no particular creative process was put in place apart from the discovery of the language. However, I found that establishing a roadmap beforehand was much more obvious.
@@ -28,15 +28,15 @@ You will therefore find on my next presentation repositories (for website creati
 ## 4. A few words
 If you discovered this repo, thanks for taking the time to check out my work! I'm in a learning phase and it's important for me to see a clear and positive evolution through the months that go by.
 
-Feel free to check out my other jobs [here]!(https://github.com/TimurKaramenderes)
+Feel free to check out my other jobs [on my GitHub](https://github.com/TimurKaramenderes)
 
 
 ### Ressources & Socials
-You can find my design work here: [here]!(https://babings.studio)
+You can find my design work here on [Babings Studio website](https://babings.studio)
 
-Twitter : [here]!(https://twitter.com/_babings_)
+Twitter : [@ _ babings _](https://twitter.com/_babings_)
 
 Keep grinding!
 
 
-*Project Wrote & Readme made the 22th May 2022*
+>*Project Wrote & Readme made the 22th May 2022*
