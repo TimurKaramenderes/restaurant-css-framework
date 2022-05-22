@@ -4,7 +4,7 @@
     url('/Type/ClashGrotesk-Medium.eot');
 }
 
-h1,h2,h3 {
+h1,h2,h3,h4,h5, .card-title,.card-header {
     font-family: "Clash-Medium", sans-serif;
     text-align: center;
     border: ;
