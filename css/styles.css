@@ -1,0 +1,99 @@
+@font-face {
+    font-family: "Clash-Medium";
+    src: local("Clash Grotesk Medium"),
+    url('/Type/ClashGrotesk-Medium.eot');
+}
+
+h1,h2,h3,h4,h5, .card-title,.card-header {
+    font-family: "Clash-Medium", sans-serif;
+    text-align: center;
+    border: ;
+}
+
+h1 {
+    border: 1px solid black ;
+   border-radius: 100%;
+}
+
+
+
+/* Navbar settings */
+.navbar {
+background-color: black;/* Black background color */ /* Make it stick/fixed */ /* Hide the navbar 50 px outside of the top view */
+/* Full width */
+ /* Transition effect when sliding down (and up) */
+}
+
+.scrolled-down{
+  transform:translateY(-100%); transition: all 0.5s ease-in-out;
+}
+.scrolled-up{
+  transform:translateY(0); transition: all 0.5s ease-in-out;
+  width: 100%;
+}
+
+.scrolled-0{
+  display: none;
+
+}
+
+/* Navbar settings */
+
+
+.jumbotron:nth-of-type(1) {
+ color: rgb(0, 0, 0); /* Le texte sera affiché en blanc */
+
+
+}
+
+.jumbotron {;
+ color: rgb(0, 0, 0); /* Le texte sera affiché en blanc */
+background-image: none;
+}
+
+.container{
+    margin-top: 3%;
+    margin
+    max-width: 100%;
+}
+
+
+
+
+a {
+text-align: right;
+}
+
+li > .badge{
+    text-align: right;
+}
+
+
+
+
+.map-container{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+.map-container iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+
+
+
+
+
+body {
+background-color: rgb(251, 251, 251);
+padding-top: 0px;
+}
+
+html {
+    background-color: black;
+}
